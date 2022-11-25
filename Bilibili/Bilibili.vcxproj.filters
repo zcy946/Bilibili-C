@@ -51,5 +51,11 @@
     <ClCompile Include="关机.while.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="计算闰年.1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算闰年.2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
