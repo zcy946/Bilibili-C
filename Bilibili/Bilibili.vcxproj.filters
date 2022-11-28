@@ -57,5 +57,8 @@
     <ClCompile Include="计算闰年.2.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二分查找.函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
