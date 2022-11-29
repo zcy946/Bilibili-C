@@ -60,5 +60,25 @@
     <ClCompile Include="二分查找.函数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="调用+1.函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数的嵌套调用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数的链式访问.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="add.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
