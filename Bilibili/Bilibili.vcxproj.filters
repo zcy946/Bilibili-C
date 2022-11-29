@@ -75,10 +75,13 @@
     <ClCompile Include="add.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="递归.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
-      <Filter>源文件</Filter>
+      <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
